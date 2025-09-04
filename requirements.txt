@@ -1,0 +1,7 @@
+pandas
+streamlit
+plotly
+base64
+sqlite3
+datetime
+random

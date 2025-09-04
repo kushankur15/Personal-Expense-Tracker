@@ -1,0 +1,1 @@
+DESCRIBE income_manager.user_36900;
